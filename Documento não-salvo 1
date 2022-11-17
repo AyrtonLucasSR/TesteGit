@@ -1,0 +1,15 @@
+GIT https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+git init -> inicializa o repositorio.
+
+git add arquivo -> adiciona o arquivo para o indice( arquivo passa a ser rastreado).
+
+git log -> visualiza os commits.
+
+git status -> mostra o estado do código.
+
+git remote add origin servidor -> adiciona servidor remoto
+
+git push -> envia o código para o repositorio remoto
+
+git checkout -b nome -> crua um novo branch e muda para ele
